@@ -4,6 +4,7 @@ Participantes:
 Hugo
 Isabela
 JP
-Felipe
+Felipe 
 
 Joao Paulo 17:17:12
+Felipe esteve aqui às 17:29:20
