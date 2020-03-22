@@ -12,3 +12,5 @@ Hugo às 17:38:55
 Isabela 17:54:55
 
 Com essas alterações aprendemos o básico sobre git!
+
+MEU COMENTÁRIO
