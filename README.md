@@ -1,4 +1,4 @@
-Repositorio de testes para oficina de GIT do pessoal da CODAMAIS
+﻿Repositorio de testes para oficina de GIT do pessoal da CODAMAIS
 
 Participantes:
 Hugo
@@ -8,3 +8,4 @@ Felipe
 
 Joao Paulo 17:17:12
 Felipe esteve aqui às 17:29:20
+Hugo às 17:38:55
